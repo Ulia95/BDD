@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/m7puvywcmwktffa5?svg=true)](https://ci.appveyor.com/project/Ulia95/bdd2)
+[![Build status](https://ci.appveyor.com/api/projects/status/et58iwcaj92ky02u?svg=true)](https://ci.appveyor.com/project/Ulia95/bdd2-lpdm3)
